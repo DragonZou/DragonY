@@ -4,8 +4,9 @@ import android.content.Context;
 import android.widget.Toast;
 
 /**
- * Toast工具类
- * Created by zousuqi on 16/4/16.
+ * @Description: Toast工具类
+ * @Author: 邹苏启
+ * @Since: 16/4/21 下午8:14
  */
 public class ToastUtil {
 
